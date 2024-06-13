@@ -1,0 +1,13 @@
+Name: Ritchey&AI Public Domain Dedication
+Version: 1
+Long Identifier: Ritchey&AI Public Domain Dedication v1
+Short Identifier: R&AIPDDv1
+Description: A Public Domain dedication.
+History:
+ - Project started June 12, 2024.
+ - Version 1 completed June 12, 2024.
+Author: James Daniel Marrs Ritchey
+Licensing: This project is licensed under the Ritchey Permissive License v16.
+Notes:
+ - This project was developed in part by using the tool GitHub Copilot Business.
+ - IANAL (I am not a lawyer).
